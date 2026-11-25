@@ -22,7 +22,7 @@ Proyek ini melakukan segmentasi 514 kabupaten/kota di Indonesia berdasarkan 5 in
 UTS-ML-2301010389-Ferdinandus Mantur/
 ├── README.md
 ├── notebook/
-│ └── UTS ML_2301010389 Ferdinandus Mantur.ipynb
+│ └── UTS ML_2301010389_Ferdinandus_Mantur.ipynb
 ├── data/
 │ └── IPM-Indonesia-2023.xlsx
 └── reports/
@@ -77,4 +77,4 @@ Saya, Ferdinandus Mantur (NIM: 2301010389), menyatakan bahwa dalam pengerjaan pr
 
 **Verifikasi Hasil**: Saya telah memeriksa semua output kode, memverifikasi angka yang dilaporkan, dan memastikan interpretasi sesuai dengan hasil analisis. Tidak ada hasil yang langsung saya copy-paste tanpa pemahaman.
 
-**Tanggal**: 25 November 2026
+**Tanggal**: 26 November 2026
